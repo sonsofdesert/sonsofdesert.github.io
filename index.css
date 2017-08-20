@@ -1,0 +1,15 @@
+body {
+ font-family: helvetica;
+ font: blue;
+ border: 2px solid blue;
+ border-radius: 20px;
+ background-color: green;
+ padding: 50px;
+
+}
+header {
+color: black;
+}
+image {
+ margin: 0, auto;
+}
